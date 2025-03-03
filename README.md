@@ -1,4 +1,8 @@
 # Tkinter: Versión jugable del clasico juego de mesa Parqués en Python
+### Autores: Andrés Felipe Arévalo
+###          Andrés Felipe Panche Garcia
+###          Daniel Esteban Mendez Ramirez
+
 ¡Bienvenido al repositorio del clásico juego de Parqués implementado en Python! 
 Este proyecto es una recreación digital del famoso juego de mesa, diseñado para ser jugado por 2 a 4 jugadores. 
 Utiliza la librería Tkinter para crear una interfaz gráfica interactiva que permite a los usuarios disfrutar de una experiencia de juego fluida.
