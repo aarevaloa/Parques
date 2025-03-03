@@ -2,7 +2,7 @@
 '''
 Created on Fri Feb 21 13:22:33 2025
 
-@author: aarevaloa
+@author: aarevaloa, apanche, dmendezra
 '''
 # Modulos empleados ___________________________________________________________________________________
 from tkinter import *
