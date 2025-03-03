@@ -965,7 +965,6 @@ def actualizar_posicion(ficha, nueva_posicion):
     global posicion_actual_j3_1, posicion_actual_j3_2, posicion_actual_j3_3, posicion_actual_j3_4
     global posicion_actual_j4_1, posicion_actual_j4_2, posicion_actual_j4_3, posicion_actual_j4_4
     
-    # [El resto del código de actualización de posiciones se mantiene igual]
     if ficha == cir_j1_1:
         posicion_actual_j1_1 = nueva_posicion
     elif ficha == cir_j1_2:
